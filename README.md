@@ -2,6 +2,8 @@
 
 Aluno: Vinicius de Andrade Felippetti 
 
+# Resumo
+Este repositório reúne as atividades práticas da disciplina Algoritmos e Estruturas de Dados II, ministrada na UFRN.
 <h3 align="left">Linguagem/Tecnologia Utilizada:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
