@@ -2,8 +2,8 @@
 
 Aluno: Vinicius de Andrade Felippetti 
 
-**Tecnologias e Ferramentas**
-[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+<h3 align="left">Linguagem/Tecnologia Utilizada:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 # Tarefa 1
 Link do vídeo com a explicação da tarefa 1: 
