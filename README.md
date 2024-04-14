@@ -14,4 +14,8 @@ Link do vídeo com a explicação da tarefa 1:
 # Tarefa 2
 Link do vídeo com a explicação da tarefa 2: 
  https://www.loom.com/share/5f799b16ea774cd5a89d3a18908d23e5?sid=ed5371f1-7791-4f91-a3cb-eee2bb416187
+ 
+# Tarefa 3
+Link do vídeo com a explicação da tarefa 3: 
+https://www.loom.com/share/dafeac358e824aa6a6ce3a05ca57ff3b?sid=79cb2b36-072d-49b7-b70c-2d129d2b90ac
 
